@@ -1,6 +1,7 @@
 /*
 Billy Plantin
-Change calculates change due while returning least amount of bills/coins due
+Change calculates change due in a transaction while returning least amount of bills/coins due.
+3 test cases used.
  */
 public class Change {
 
